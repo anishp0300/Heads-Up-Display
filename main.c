@@ -1,4 +1,4 @@
-
+/* FIRMWARE CODE FOR NRF52832 */
 /*REQUIRED HEADER FILES*/
 
 #include <stdint.h>
